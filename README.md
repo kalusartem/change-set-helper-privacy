@@ -3,7 +3,7 @@
 Support and privacy policy for the Chrome extension **Change Set Helper for Salesforce (unofficial)**.
 
 - [Privacy policy](PRIVACY.md)
-- [Report a bug or request a feature](../../issues)
+- [Report a bug or request a feature](https://github.com/kalusartem/change-set-helper-privacy/issues)
 - Email: support@diffbridge.com
 
 Not affiliated with, endorsed by or sponsored by Salesforce, Inc.
